@@ -1,0 +1,25 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Unittest_logic.test.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanapolbig/unittest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanapolbig/unittest/issues"
+  },
+  "homepage": "https://github.com/thanapolbig/unittest#readme",
+  "dependencies": {
+    "logger": "0.0.1",
+    "sha256": "^0.2.0",
+    "winston": "^3.3.3"
+  }
+}
